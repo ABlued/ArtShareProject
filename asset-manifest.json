@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArtShareProject/static/css/main.67f62762.chunk.css",
+    "main.js": "/ArtShareProject/static/js/main.e2da08e7.chunk.js",
+    "main.js.map": "/ArtShareProject/static/js/main.e2da08e7.chunk.js.map",
+    "runtime-main.js": "/ArtShareProject/static/js/runtime-main.ebfcc1c0.js",
+    "runtime-main.js.map": "/ArtShareProject/static/js/runtime-main.ebfcc1c0.js.map",
+    "static/js/2.8e54895b.chunk.js": "/ArtShareProject/static/js/2.8e54895b.chunk.js",
+    "static/js/2.8e54895b.chunk.js.map": "/ArtShareProject/static/js/2.8e54895b.chunk.js.map",
+    "index.html": "/ArtShareProject/index.html",
+    "precache-manifest.a27b77012eba28a1098415f5531d57dc.js": "/ArtShareProject/precache-manifest.a27b77012eba28a1098415f5531d57dc.js",
+    "service-worker.js": "/ArtShareProject/service-worker.js",
+    "static/css/main.67f62762.chunk.css.map": "/ArtShareProject/static/css/main.67f62762.chunk.css.map",
+    "static/js/2.8e54895b.chunk.js.LICENSE.txt": "/ArtShareProject/static/js/2.8e54895b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebfcc1c0.js",
+    "static/js/2.8e54895b.chunk.js",
+    "static/css/main.67f62762.chunk.css",
+    "static/js/main.e2da08e7.chunk.js"
+  ]
+}
