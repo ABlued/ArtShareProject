@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2b2cadcbe6562a6a82045e897d83690",
+    "revision": "86e2d2e377b9783c95835af265a187e5",
     "url": "/ArtShareProject/index.html"
   },
   {
-    "revision": "e3f4c85e2420cc4c02df",
+    "revision": "06035872c66b9abb3059",
     "url": "/ArtShareProject/static/css/main.67f62762.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArtShareProject/static/js/2.8e54895b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3f4c85e2420cc4c02df",
-    "url": "/ArtShareProject/static/js/main.eaa63ea8.chunk.js"
+    "revision": "06035872c66b9abb3059",
+    "url": "/ArtShareProject/static/js/main.b1b98529.chunk.js"
   },
   {
     "revision": "e7441795cb5909bcbdab",
